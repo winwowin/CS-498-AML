@@ -1,9 +1,6 @@
 # CS498AML-HW9
 
 ## About
-### Due
-Wednesday 4/24/19, 11:59 PM CST
-
 ### Goal
 This homework focuses on evaluating variational autoencoders applied to the MNIST dataset.
 
