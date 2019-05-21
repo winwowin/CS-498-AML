@@ -1,4 +1,5 @@
 # CS498AML-HW7
+Homework 7: Text Bag-of-Words Search and Classification
 
 
 ## About
