@@ -4,9 +4,6 @@
 ## About
 This homework focuses on implementing a bag-of-word based pipeline to retrieve similar documents and classify reviews.
 
-### Due
-Monday 4/1/19, 11:59 PM CST
-
 ### Goal
 The intent of this homework is to become familiar with using bag-of-words text representation to perform several tasks. Specifically, we will explore text retrieval by simple nearest neighbor queries and classification of using Logistic regression.
 
