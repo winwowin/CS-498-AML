@@ -2,9 +2,6 @@
 
 ## Homework 8: Artificial Neural Networks with PyTorch
 
-#### Due
-Monday 4/15/19, 11:59 PM CST
-
 #### Goal
 This homework focuses on becoming familiar with the PyTorch deep learning platform through a tutorial on a benchmark machine learning dataset.
 
