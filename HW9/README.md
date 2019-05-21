@@ -1,4 +1,5 @@
 # CS498AML-HW9
+Homework 9: Variational Autoencoders
 
 ## About
 ### Goal
